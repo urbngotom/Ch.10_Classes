@@ -2,7 +2,7 @@
 
 '''
 CLASSY ANIMALS (5pts)
---------------
+---------------------
  A. Write code that defines a class named Animal:
      * Add a constructor for the Animal class that prints 'An animal has been born.'
      * Add an attribute for the animal name.
@@ -58,7 +58,7 @@ Grrr says (animal name) .
 
 '''
 CLASSY BOATS (5pts)
-------------
+-------------------
 Use the following Pseudocode to create this program:
 
 1.) Create a class called Boat( )
@@ -76,7 +76,6 @@ Use the following Pseudocode to create this program:
 if the boat is undocked and "(boat name) can't submerge" if the boat is docked.
 
 Let's Float the Boat
---------------------
 13.) Instantiate an object of the Submarine( ) class. Don't forget to pass in a name.
 14.) Call the dock( ) method once
 15.) Call the undock( ) method twice
@@ -95,3 +94,28 @@ USS Hermon can't submerge!
 USS Hermon is undocking
 USS Hermon is submerging!
 '''
+
+
+
+
+
+
+'''
+1000 CIRCLES (5pts)
+-------------------
+Open an arcade window that is 500 x 300 pixels and named 1000 Circles.
+Create a class called Circle.
+Initialize the x and y positions to be randomly placed somewhere in the window.
+Initialize the radius to be 10 pixels.
+Initialize the color to randomized 0-255 RGB color format.
+Add a method to the Circle Class called draw_circle and draw the circle.
+In the main program, use a for loop to call the Circle class and draw it 1000 times.
+Feel free to see what happens if you draw it 10,000 times as well.
+'''
+
+
+
+
+
+
+
